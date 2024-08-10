@@ -1,2 +1,2 @@
 ignore and force push
-editing this file remotely and doing it locally too
+editing this file remotely but don't do it locally
